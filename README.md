@@ -1,4 +1,5 @@
 School Management system 
+<br>
 Hello everyone 
 <br>
 Here is my first project which i did using all my efforts using simple methods in python
